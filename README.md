@@ -1,4 +1,3 @@
-Threat Hunting
 This repo aims to help Cyber Threat hunters, Incident Responders and Digital forensics analysts create use cases to detect suspicious PowerShell execution in the environment.
 
 PowerShell is a powerful and crucial sys internal tool in Windows. once the attacker compromises the system may leverage it to abuse the system functionality.   
