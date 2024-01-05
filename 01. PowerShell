@@ -1,1 +1,4 @@
 <h1>Scenario</h1>
+Let's assume well-known PowerShell offensive Frameworks and Scripts/Commands are executed. 
+
+<h2>for this Hunt focus only on the available PowerShell _ScriptBlockText_ field and EventID 4104 </h2>
