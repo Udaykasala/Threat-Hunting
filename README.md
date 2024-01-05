@@ -1,6 +1,6 @@
 # Threat Hunting
-This repo aims to help Cyber Threat hunters, Incident Responders and Digital forensics analysts create use cases to detect suspicious PowerShell execution in the environment.
+This repository is designed to assist Cyber Threat Hunters, Incident Responders, and Digital Forensics Analysts in formulating effective use cases for the detection of suspicious PowerShell executions within an organizational environment. PowerShell, an essential sys internal tool in Windows, possesses significant capabilities that, when exploited by attackers, may be utilized to compromise system functionality.
 
-PowerShell is a powerful and crucial sys internal tool in Windows. once the attacker compromises the system may leverage it to abuse the system functionality.   
+Recognizing the critical role PowerShell plays in both legitimate system administration and potentially malicious activities, the provided use cases and queries are curated to align with the proactive mindset of threat hunters. These queries are versatile and can be seamlessly integrated into various Security Information and Event Management (SIEM) solutions, including but not limited to Splunk, ELK, LogRhythm, and QRadar.
 
-The following use cases and queries enable you to the threat hunter mindset and these queries support multiple SIEM solutions such as including, Splunk, ELK, LogRhythm, and QRadar etc. 
+Empowering security professionals with the means to identify and respond to potential threats, this repository serves as a valuable resource for enhancing cybersecurity resilience in the face of evolving digital risks. Moreover, continuous updates and contributions are encouraged to ensure the repository remains a comprehensive and dynamic tool for the cybersecurity community. 
